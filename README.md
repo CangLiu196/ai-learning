@@ -12,3 +12,5 @@ Stage 2
 DeepSeek is falling
 
 What next?
+
+Let's get it done
