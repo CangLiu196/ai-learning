@@ -18,3 +18,5 @@ Let's get it done
 Opps!!
 
 Claude is the best
+
+AI need memory
