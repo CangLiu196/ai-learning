@@ -20,3 +20,5 @@ Opps!!
 Claude is the best
 
 AI need memory
+
+LFG
